@@ -1,0 +1,15 @@
+body {
+    height: 400vh;
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
+    background: #dddddd;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(230, 86, 86);
+}
